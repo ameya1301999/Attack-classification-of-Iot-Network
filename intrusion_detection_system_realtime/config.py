@@ -1,0 +1,10 @@
+folderpath = r"C:\Users\Indian\PycharmProjects\intrusion_detection_system_realtime"
+time_steps=5
+traffic_congestion_pkt_cnt=0
+percent_traffic_congestion=0
+pkt_total_cnt=0
+traffic_congestion_threshold=20
+EXPIRED_UPDATE = 240
+CLUMP_TIMEOUT = 1
+ACTIVE_TIMEOUT = 0.005
+BULK_BOUND = 4
