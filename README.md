@@ -74,3 +74,7 @@ pip install keras
   <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
 </a>
 
+
+<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
+  <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false">
+</a>
