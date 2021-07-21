@@ -69,17 +69,17 @@ pip install --upgrade scipy
 pip install --upgrade cython  
 pip install keras   
 
-##Contributors
+## Contributors
 
 <a href="https://github.com/ameya1301999">
   <img src="https://github.com/ameya1301999.png?size=50">
 </a>
 
 <a href="https://github.com/pranjalm04">
-  <img src="https://github.com/pranjalm04.png?size=50">
+  <img src="https://github.com/pranjalm04.png?size=5">
 </a>
 
 
 <a href="https://github.com/raghavtripurwar">
-  <img src="https://github.com/raghavtripurwar.png?size=50">
+  <img src="https://github.com/raghavtripurwar.png?size=5">
 </a>
