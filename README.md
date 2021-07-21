@@ -69,11 +69,17 @@ pip install --upgrade scipy
 pip install --upgrade cython  
 pip install keras   
 
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
-</a>
+##Contributors
 
 <a href="https://github.com/ameya1301999">
   <img src="https://github.com/ameya1301999.png?size=50">
+</a>
+
+<a href="https://github.com/pranjalm04">
+  <img src="https://github.com/pranjalm04.png?size=50">
+</a>
+
+
+<a href="https://github.com/raghavtripurwar">
+  <img src="https://github.com/raghavtripurwar.png?size=50">
 </a>
