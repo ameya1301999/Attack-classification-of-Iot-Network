@@ -72,14 +72,14 @@ pip install keras
 ## Contributors
 
 <a href="https://github.com/ameya1301999">
-  <img src="https://github.com/ameya1301999.png?size=50">
+  <img src="https://github.com/ameya1301999.png?size=100">
 </a>
 
 <a href="https://github.com/pranjalm04">
-  <img src="https://github.com/pranjalm04.png?size=5">
+  <img src="https://github.com/pranjalm04.png?size=0">
 </a>
 
 
 <a href="https://github.com/raghavtripurwar">
-  <img src="https://github.com/raghavtripurwar.png?size=5">
+  <img src="https://github.com/raghavtripurwar.png?size=0">
 </a>
